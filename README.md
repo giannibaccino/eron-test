@@ -41,6 +41,7 @@ https://eron-test.onrender.com/api/directors?threshold=4
 mvn clean package -DskipTests
 java -jar target/*.jar
 ```
+Or execute .jar directly
 
 The app will run in port 8080
 
